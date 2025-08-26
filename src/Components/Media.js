@@ -34,7 +34,7 @@ const Media = () => {
                 </div>
 
                 <div className="single-img">
-                    <img src={img11} alt="original captcha" className="original"/>
+                    <img src={img11} alt="original " className="original"/>
                     <img src={img17} alt="Hover captcha" className="hover"/>
                 </div>
 
