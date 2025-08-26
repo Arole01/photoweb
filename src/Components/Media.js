@@ -52,5 +52,5 @@ const Media = () => {
         </section>
     )
 }
-
+console.log("jp")
 export default Media;
