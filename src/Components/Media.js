@@ -1,5 +1,4 @@
 import React from 'react';
-import img1 from '../assets/images/img1.jpg';
 import img7 from '../assets/images/img7.jpg';
 import img8 from '../assets/images/img8.jpg';
 import img9 from '../assets/images/img9.jpg';
@@ -21,7 +20,7 @@ const Media = () => {
             <div className="img-area">
                 <div className="single-img">
                     <img src={img1} alt="original captcha" className="original"/>
-                    <img src={"https://res.cloudinary.com/dh549anka/image/upload/v1716850059/Fashion%20app/image20.jpg"} alt="Hover captcha" className="hover"/>
+                    <img src={img10} alt="Hover captcha" className="hover"/>
                 </div>
 
                 <div className="single-img">
