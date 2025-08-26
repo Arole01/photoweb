@@ -20,8 +20,8 @@ const Media = () => {
                 </div>
 
                 <div className="single-img">
-                    <img src={"https://res.cloudinary.com/dh549anka/image/upload/v1715628681/Fashion%20app/image15.jpg"} alt="original captcha" className="original"/>
-                    <img src={"https://res.cloudinary.com/dh549anka/image/upload/v1715616691/cld-sample-5.jpg"} alt="Hover captcha" className="hover"/>
+                    <img src={img11} alt="original captcha" className="original"/>
+                    <img src={img17} alt="Hover captcha" className="hover"/>
                 </div>
 
                 <div className="single-img">
