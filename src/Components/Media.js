@@ -3,13 +3,13 @@ import img1 from '../assets/images/img1.jpg';
 import img7 from '../assets/images/img7.jpg';
 import img8 from '../assets/images/img8.jpg';
 import img9 from '../assets/images/img9.jpg';
-import img10 from '../assets/images/img10.jpg';
+
 import img11 from '../assets/images/img11.jpg';
 import img12 from '../assets/images/img12.jpg';
 import img13 from '../assets/images/img13.jpg';
 import img16 from '../assets/images/img16.jpg';
 import img17 from '../assets/images/img17.jpg';
-import img18 from '../assets/images/img18.jpg';
+
 import img19 from '../assets/images/img19.jpg';
 
 
@@ -21,11 +21,11 @@ const Media = () => {
             <div className="img-area">
                 <div className="single-img">
                     <img src={img1} alt="original captcha" className="original"/>
-                    <img src={img10} alt="Hover captcha" className="hover"/>
+                    <img src={"https://res.cloudinary.com/dh549anka/image/upload/v1716850059/Fashion%20app/image20.jpg"} alt="Hover captcha" className="hover"/>
                 </div>
 
                 <div className="single-img">
-                    <img src={img18} alt="original captcha" className="original"/>
+                    <img src={"https://res.cloudinary.com/dh549anka/image/upload/v1716850059/Fashion%20app/image21.jpg"} alt="original captcha" className="original"/>
                     <img src={img8} alt="Hover captcha" className="hover"/>
                 </div>
 

@@ -7,7 +7,7 @@ import Header from "./Components/Header";
 import Media from "./Components/Media";
 import Passion from "./Components/Passion";
 import Service from "./Components/Service";
-import appCss from "./Styles/Styles.css"
+import "./Styles/Styles.css";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function App() {
