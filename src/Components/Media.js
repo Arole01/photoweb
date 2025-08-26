@@ -19,8 +19,8 @@ const Media = () => {
             <h3 className="title">Media</h3>
             <div className="img-area">
                 <div className="single-img">
-                    <img src={img1} alt="original captcha" className="original"/>
-                    <img src={img10} alt="Hover captcha" className="hover"/>
+                    <img src={"https://res.cloudinary.com/djidnusq7/image/upload/v1756194107/cam2_nvxwpn.jpg"} alt="original captcha" className="original"/>
+                    <img src={"https://res.cloudinary.com/dh549anka/image/upload/v1715628698/Fashion%20app/image9.jpg"} alt="Hover captcha" className="hover"/>
                 </div>
 
                 <div className="single-img">
@@ -29,7 +29,7 @@ const Media = () => {
                 </div>
 
                 <div className="single-img">
-                    <img src={img19} alt="original-captcha" className="original"/>
+                    <img src={"https://res.cloudinary.com/dh549anka/image/upload/v1716850059/Fashion%20app/image23.jpg"} alt="original-captcha" className="original"/>
                     <img src={img13} alt="Hover captcha" className="hover"/>
                 </div>
 
